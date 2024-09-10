@@ -87,12 +87,14 @@ header .right .titles h2 {
 }
 .cotegories .container .tags {
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
+  gap: 5px;
+
+  /* align-items: center; */
+  /* justify-content: center; */
 }
 .cotegories .container .tags h1 {
-  font-size: 15px;
+  font-size: 10px;
+  padding-top: 5px;
 }
 .cotegories .container .tags .logoo {
   height: 25px;
