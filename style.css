@@ -7,6 +7,7 @@
   border: none;
   outline: none;
   overflow-x: hidden;
+  scrollbar-width: none;
 
   /* border: 2px solid black; */
 }
@@ -94,8 +95,8 @@ header .right .titles h2 {
   font-size: 15px;
 }
 .cotegories .container .tags .logoo {
-  height: 30px;
-  width: 30px;
+  height: 25px;
+  width: 25px;
 }
 .cotegories .container .tags .logoo img {
   width: 100%;
