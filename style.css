@@ -8,6 +8,7 @@
   outline: none;
   overflow-x: hidden;
   scrollbar-width: none;
+  text-decoration: none;
 
   /* border: 2px solid black; */
 }
